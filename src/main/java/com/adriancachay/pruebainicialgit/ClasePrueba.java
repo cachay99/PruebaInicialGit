@@ -18,4 +18,8 @@ public class ClasePrueba {
 		return a/b;
 
 	}
+	public int valorAbsoluto(int a){
+		return Math.abs(a);
+
+	}
 }
